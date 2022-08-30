@@ -16,6 +16,3 @@
 * 支持设置监控规则
 * 监控RSS更新
 * 数据导入导出
-
-## Buy Me a Coffee
-![](fig/donate_wechat.jpg)
